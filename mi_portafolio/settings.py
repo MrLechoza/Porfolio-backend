@@ -137,6 +137,9 @@ EMAIL_HOST_PASSWORD = "vtnp rkik akdk vpjm"
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "https://mrlechoza.github.io/Porfolio-frontend/",
 ]
+
+ALLOWED_HOSTS = ['https://porfolio-backend-ujlh.onrender.com']
 
 CORS_ALLOW_ALL_ORIGINS = True
