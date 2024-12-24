@@ -62,7 +62,6 @@ MarkupSafe==2.1.2
 matplotlib==3.7.1
 matplotlib-inline==0.1.6
 mdurl==0.1.2
-Mensajes-GelvisD==5.0
 mistune==2.0.5
 more-itertools==9.1.0
 nbclassic==0.5.3
