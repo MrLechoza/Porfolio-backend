@@ -64,8 +64,6 @@ MarkupSafe==2.1.2
 matplotlib==3.10.0
 matplotlib-inline==0.1.6
 mdurl==0.1.2
-Mensajes @ file:///C:/Users/Diego/OneDrive/Escritorio/Modulos%20y%20Paquetes/dist/Mensajes-4.0.tar.gz#sha256=5eb993dd236ba709eb8da54a3ae6e7abef4b605151873e28512288e16f414bfd
-Mensajes-GelvisD==5.0
 mistune==2.0.5
 more-itertools==9.1.0
 nbclassic==0.5.3
