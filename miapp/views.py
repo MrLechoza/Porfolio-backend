@@ -6,9 +6,8 @@ from .models import ContactMessage
 from .serializers import ContactMessageSerializer
 from django.views.decorators.csrf import csrf_exempt
 
-
-@csrf_exempt
 class ContactMessageView(APIView):
+    @csrf_exempt
     def post(self, request):
         serializer = ContactMessageSerializer(data=request.data)
         if serializer.is_valid():
