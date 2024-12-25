@@ -139,7 +139,7 @@ CORS_ALLOWED_ORIGINS = [
     "https://mrlechoza.github.io/Porfolio-frontend/" , 'mrlechoza.github.io/Porfolio-frontend/',
 ]
 
-ALLOWED_HOSTS = ['https://porfolio-backend-1.onrender.com', 'porfolio-backend-1.onrender.com']
+ALLOWED_HOSTS = ['https://porfolio-backend-1.onrender.com', 'https://porfolio-backend-1.onrender.com/contact/']
 
 
 CORS_ALLOW_CREDENTIALS = True
