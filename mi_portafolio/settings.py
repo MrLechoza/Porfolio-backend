@@ -25,7 +25,6 @@ SECRET_KEY = 'django-insecure-#g$14f3bvyb(!1$&bjwn-2$28x067qk=80z33(j6!94fz@y%(f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -52,6 +51,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
 
 ROOT_URLCONF = 'mi_portafolio.urls'
 
