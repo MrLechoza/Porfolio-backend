@@ -4,7 +4,10 @@ from rest_framework import status
 from django.core.mail import send_mail
 from .models import ContactMessage
 from .serializers import ContactMessageSerializer
+from django.views.decorators.csrf import csrf_exempt
 
+
+@csrf_exempt
 class ContactMessageView(APIView):
     def post(self, request):
         serializer = ContactMessageSerializer(data=request.data)

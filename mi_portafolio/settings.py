@@ -136,10 +136,10 @@ EMAIL_HOST_USER = "crowshadow123@gmail.com"
 EMAIL_HOST_PASSWORD = "vtnp rkik akdk vpjm"
 
 CORS_ALLOWED_ORIGINS = [
-    "https://mrlechoza.github.io/Porfolio-frontend/" , 'mrlechoza.github.io/Porfolio-frontend/',
+    "https://mrlechoza.github.io/Porfolio-frontend" , 'mrlechoza.github.io/Porfolio-frontend',
 ]
 
-ALLOWED_HOSTS = ['https://porfolio-backend-1.onrender.com']
+ALLOWED_HOSTS = ['porfolio-backend-1.onrender.com']
 
 
 CORS_ALLOW_CREDENTIALS = True
