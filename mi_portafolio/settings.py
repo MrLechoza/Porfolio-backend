@@ -140,6 +140,7 @@ CORS_ALLOWED_ORIGINS = [
     "https://mrlechoza.github.io/Porfolio-frontend/",
 ]
 
-ALLOWED_HOSTS = ['https://porfolio-backend-ujlh.onrender.com']
+ALLOWED_HOSTS = ['https://porfolio-backend-1.onrender.com']
+
 
 CORS_ALLOW_ALL_ORIGINS = True
