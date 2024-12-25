@@ -136,7 +136,6 @@ EMAIL_HOST_USER = "crowshadow123@gmail.com"
 EMAIL_HOST_PASSWORD = "vtnp rkik akdk vpjm"
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",
     "https://mrlechoza.github.io/Porfolio-frontend/",
 ]
 
